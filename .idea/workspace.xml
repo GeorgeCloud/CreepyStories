@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="163eb928-8da9-45be-8607-f84ecd01f703" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/photos.html" beforeDir="false" afterPath="$PROJECT_DIR$/photos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos.html" beforeDir="false" afterPath="$PROJECT_DIR$/videos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635789917144</updated>
       <workItem from="1635789929189" duration="9649000" />
-      <workItem from="1635902688266" duration="11602000" />
+      <workItem from="1635902688266" duration="11765000" />
     </task>
     <servers />
   </component>
