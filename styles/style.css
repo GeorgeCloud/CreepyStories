@@ -1,0 +1,114 @@
+body {
+    color: black;
+    background-color: rgb(30, 30, 30);
+}
+
+nav {
+}
+
+span {
+    color: white;
+}
+
+.about-us {
+    margin-top: 30px;
+}
+
+.center {
+    margin: 20px 0 0 230px;
+    /*margin-left: 250px;*/
+    /*margin: 20px;*/
+}
+
+.main-content {
+    background-image: url("../images/cover.png");
+    background-size: cover;
+    filter: brightness(70%);
+    height: 100vh;
+    padding: 50px 20px 50px 50px;
+}
+
+.container-color {
+    background-color: rgb(30, 30, 30);
+}
+
+.container-color h1 {
+    margin-top: 10px;
+}
+
+.video-content {
+    background-image: url("../images/banner.png");
+    background-position: bottom;
+    background-size: cover;
+    height: 80vh;
+    width: 100vw;
+    padding: 200px 200px 50px 180px;
+    text-align: center;
+    color: white;
+}
+
+.white-font {
+    color: white;
+}
+
+.white {
+    color: white;
+    text-decoration: none;
+    transform: rotate(-90deg);
+    margin-top: 80px;
+    font-size: 10px;
+}
+
+.twitter {
+    margin-left: 8px;
+}
+
+.card {
+    /*width: 200px;*/
+
+}
+
+.current-slide {
+    width: 200px;
+    height: 150px;
+}
+
+.unselected-slide {
+    width: 160px;
+    height: 120px;
+}
+
+.card-title {
+    font-size: 10px;
+}
+
+.card-text {
+    font-size: 8px;
+}
+
+#logo {
+    width: 50px;
+    height: 50px;
+}
+
+.card {
+    border: none;
+}
+
+.bg-dark {
+    background: none!important;
+}
+
+.video-submission {
+    margin-left: 17%;
+    width: 50%;
+    color: white;
+}
+
+.video-submission h2{
+    margin-left: 28%;
+}
+
+.video-submission p {
+    margin-left: 20%;
+}
